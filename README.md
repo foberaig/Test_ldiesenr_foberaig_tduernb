@@ -11,3 +11,5 @@ foberaig@htblasteyr.onmicrosoft.com
 foberaig IntelliJ
 
 Tobias Dürnberger intellIJ
+
+ldiesenr intelliJ
