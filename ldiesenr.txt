@@ -1,1 +1,6 @@
 ldiesenr hallo
+git clone https://github.com/foberaig/Test_ldiesenr_foberaig_tduernb.git
+git add ldiesenr.txt
+git commit -m "Add file ldiesenr.txt"
+git pull
+git push
