@@ -1,1 +1,5 @@
-foberaig halloo
+git clone https://github.com/foberaig/Test_ldiesenr_foberaig_tduernb.git
+git add foberaig.txt
+git commit -m "Add File foberaig.txt"
+git pull
+git push
